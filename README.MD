@@ -1,6 +1,6 @@
 ### Dockerfiles 
 Dockerfile is a declarative way of creating our own images. Dockerfile will give us some syntax to create our own images.
-Filename should be Dockerfile
+Filename should be Dockerfile. And docker commands should run from the directory where the dockerfile exits.
 
 ### How to build image from dockerfile
 ``` 
